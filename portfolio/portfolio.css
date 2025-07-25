@@ -1,0 +1,52 @@
+.flex-container{
+ background-color:black;
+ color:white;
+ display:flex;
+ 
+ justify-content:space-evenly;
+ 
+}
+.home{
+   display:flex;  
+   margin-left: 100px;
+   margin-top:200px;
+   justify-content:space-between;
+   
+   margin-right:50px;
+   
+}
+.design{
+    font-size:30px;
+    color:brown;
+    margin-left:100px;
+}
+.amit{
+    border-radius:50%;
+}
+*{
+    background-color:black;
+}
+.SKILL{
+    margin-left: 100px;
+    margin-top:100px;
+    justify-content:space-around;
+   
+}
+.java{
+    display:flex;
+    margin-left: 1000px;
+    
+    border-radius:50%;
+
+}
+.symbol{
+     margin-left: 400px;
+     margin-top:80px;
+}
+.linkedin{
+    
+    margin-top:150px;
+    display:flex;
+    justify-content:space-around;
+
+}
